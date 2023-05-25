@@ -1,2 +1,2 @@
 # Contacts-Manager
-This is project for Data Structure course
+Project for Data Structure course
